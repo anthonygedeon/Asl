@@ -1,2 +1,2 @@
 # Asl
-A Machine Learning model that can interpret ASL
+American Sign Language Translator using OpenCV and Machine Learning
